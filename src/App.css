@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container__tienda {
+  margin-top: 8.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.btn__gral {
+  background-color: #d9c487;
+  border-color: #d9c487;
+  color: #06060b;
+  font-size: large;
+  font-weight: 700;
+  font-size: medium;
+  margin-top: 7px;
+  text-decoration: none; }
+  .btn__gral:hover {
+    background-color: #53d0bf;
+    border-color: #53d0bf; }
+
+    .cartContainer {
+      margin-top: 5rem;
+  
+  }
+
+
+  .numCarrito {
+   display: flex;
+   margin-top: 0.5rem;
+   margin-bottom: 1rem;
+
+  }
+
+  .btn-cart{
+    display: flex;
+    
+  }
